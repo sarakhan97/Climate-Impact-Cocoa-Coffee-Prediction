@@ -83,32 +83,11 @@ For coffee:
    - `Wrapper.ipynb`
    - `resnet.ipynb`
 
-## Missing coffee data files
 
-The uploaded Coffee ZIP contains notebooks only. These notebooks reference CSV files that were not included in the ZIP:
-
-- `arabica_2008.csv`
-- `arabica_clean_2023.csv`
-- `arabica-2024-25.csv`
-- `cleaned_Coffee_Data.csv`
-- `removed_outliners.csv`
-- `final_coffee.csv`
-- `final_coffee_no_area_year.csv`
 
 Add these files to the `coffee/` folder before running the coffee notebooks.
 
-## GitHub upload commands
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: coffee and cocoa prediction notebooks"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` and `YOUR-REPO-NAME` with your GitHub username and repository name.
 
 ## Notes
 
