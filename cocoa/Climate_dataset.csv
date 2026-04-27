@@ -1,0 +1,170 @@
+﻿Domain Code,Country  Code ,Country ,Element Code,Months Code,Months,Year,Temperature change on land Value in °c,Flag,Flag Description,,Annual precipitation
+ET,76,Brazil,7271,7020,Meteorological year,2011,0.833,E,Estimated value,,1905.6708
+ET,76,Brazil,7271,7020,Meteorological year,2012,1.067,E,Estimated value,,1639.0797
+ET,76,Brazil,7271,7020,Meteorological year,2013,0.963,E,Estimated value,,1873.0792
+ET,76,Brazil,7271,7020,Meteorological year,2014,1.205,E,Estimated value,,1757.6575
+ET,76,Brazil,7271,7020,Meteorological year,2015,1.61,E,Estimated value,,1608.9254
+ET,76,Brazil,7271,7020,Meteorological year,2016,1.544,E,Estimated value,,1740.583
+ET,76,Brazil,7271,7020,Meteorological year,2017,1.432,E,Estimated value,,1747.5599
+ET,76,Brazil,7271,7020,Meteorological year,2021,1.149,E,Estimated value,,1769.5098
+ET,76,Brazil,7271,7020,Meteorological year,2022,0.997,E,Estimated value,,1697.9008
+ET,76,Brazil,7271,7020,Meteorological year,2023,1.648,E,Estimated value,,1427.0691
+ET,159,China,7271,7020,Meteorological year,2013,1.087,E,Estimated value,,781.849
+ET,159,China,7271,7020,Meteorological year,2015,1.3,E,Estimated value,,810.2241
+ET,170,Colombia,7271,7020,Meteorological year,2010,1.034,E,Estimated value,,3613.9207
+ET,170,Colombia,7271,7020,Meteorological year,2011,0.491,E,Estimated value,,3560.0776
+ET,170,Colombia,7271,7020,Meteorological year,2012,0.711,E,Estimated value,,3311.0442
+ET,170,Colombia,7271,7020,Meteorological year,2013,0.839,E,Estimated value,,3332.7095
+ET,170,Colombia,7271,7020,Meteorological year,2014,0.821,E,Estimated value,,3320.8735
+ET,170,Colombia,7271,7020,Meteorological year,2015,1.276,E,Estimated value,,3202.118
+ET,170,Colombia,7271,7020,Meteorological year,2016,1.109,E,Estimated value,,3363.6191
+ET,170,Colombia,7271,7020,Meteorological year,2017,0.774,E,Estimated value,,3088.4214
+ET,170,Colombia,7271,7020,Meteorological year,2021,0.824,E,Estimated value,,3333.516
+ET,170,Colombia,7271,7020,Meteorological year,2022,0.671,E,Estimated value,,3258.771
+ET,170,Colombia,7271,7020,Meteorological year,2023,1.265,E,Estimated value,,2907.0608
+ET,170,Colombia,7271,7020,Meteorological year,2024,1.3,E,Estimated value,,2874.0173
+ET,170,Colombia,7271,7020,Meteorological year,2025,1.75,E,Estimated value,,2471.7
+ET,188,Costa Rica,7271,7020,Meteorological year,2012,0.02,O,Missing value,,3080.131
+ET,188,Costa Rica,7271,7020,Meteorological year,2013,0.15,O,Missing value,,3170.6519
+ET,188,Costa Rica,7271,7020,Meteorological year,2014,0.14,O,Missing value,,3259.2747
+ET,188,Costa Rica,7271,7020,Meteorological year,2015,0.01,O,Missing value,,2925.3284
+ET,188,Costa Rica,7271,7020,Meteorological year,2016,0.1,O,Missing value,,3429.5835
+ET,188,Costa Rica,7271,7020,Meteorological year,2017,0.11,O,Missing value,,3550.5332
+ET,188,Costa Rica,7271,7020,Meteorological year,2018,0.41,O,Missing value,,3093.055
+ET,188,Costa Rica,7271,7020,Meteorological year,2021,0.29,O,Missing value,,3247.5867
+ET,188,Costa Rica,7271,7020,Meteorological year,2022,0.11,O,Missing value,,3722.1326
+ET,188,Costa Rica,7271,7020,Meteorological year,2023,0.83,O,Missing value,,2911.6516
+ET,222,El Salvador,7271,7020,Meteorological year,2009,0.865,E,Estimated value,,1269.6707
+ET,222,El Salvador,7271,7020,Meteorological year,2010,0.567,E,Estimated value,,2317.3452
+ET,222,El Salvador,7271,7020,Meteorological year,2012,0.698,E,Estimated value,,1251.9868
+ET,222,El Salvador,7271,7020,Meteorological year,2013,0.697,E,Estimated value,,1376.4656
+ET,222,El Salvador,7271,7020,Meteorological year,2014,0.738,E,Estimated value,,1359.8912
+ET,222,El Salvador,7271,7020,Meteorological year,2016,1.483,E,Estimated value,,1268.6365
+ET,222,El Salvador,7271,7020,Meteorological year,2017,0.937,E,Estimated value,,1662.4603
+ET,222,El Salvador,7271,7020,Meteorological year,2021,1.22,E,Estimated value,,1496.6857
+ET,222,El Salvador,7271,7020,Meteorological year,2022,0.931,E,Estimated value,,1938.6243
+ET,222,El Salvador,7271,7020,Meteorological year,2023,1.646,E,Estimated value,,1326.5271
+ET,231,Ethiopia,7271,7020,Meteorological year,2009,1.371,E,Estimated value,,816.83655
+ET,231,Ethiopia,7271,7020,Meteorological year,2010,1.271,E,Estimated value,,1068.4465
+ET,231,Ethiopia,7271,7020,Meteorological year,2012,1.063,E,Estimated value,,948.15753
+ET,231,Ethiopia,7271,7020,Meteorological year,2013,1.236,E,Estimated value,,1059.8037
+ET,231,Ethiopia,7271,7020,Meteorological year,2014,1.164,E,Estimated value,,1034.0714
+ET,231,Ethiopia,7271,7020,Meteorological year,2015,1.463,E,Estimated value,,937.7638
+ET,231,Ethiopia,7271,7020,Meteorological year,2016,1.524,E,Estimated value,,965.4886
+ET,231,Ethiopia,7271,7020,Meteorological year,2017,1.338,E,Estimated value,,960.3114
+ET,231,Ethiopia,7271,7020,Meteorological year,2021,1.21,E,Estimated value,,822.3942
+ET,231,Ethiopia,7271,7020,Meteorological year,2022,1.167,E,Estimated value,,789.82904
+ET,231,Ethiopia,7271,7020,Meteorological year,2023,1.198,E,Estimated value,,1045.1627
+,231,Ethiopia,7271,7020,Meteorological year,2024,1.5,E,Estimated value,,971.2179
+ET,320,Guatemala,7271,7020,Meteorological year,2009,0.732,E,Estimated value,,1544.2444
+ET,320,Guatemala,7271,7020,Meteorological year,2012,0.555,E,Estimated value,,1749.0828
+ET,320,Guatemala,7271,7020,Meteorological year,2013,0.66,E,Estimated value,,2123.503
+ET,320,Guatemala,7271,7020,Meteorological year,2014,0.631,E,Estimated value,,1941.9846
+ET,320,Guatemala,7271,7020,Meteorological year,2015,1.172,E,Estimated value,,1742.4297
+ET,320,Guatemala,7271,7020,Meteorological year,2016,1.459,E,Estimated value,,1671.6971
+ET,320,Guatemala,7271,7020,Meteorological year,2017,1.086,E,Estimated value,,1949.2413
+ET,320,Guatemala,7271,7020,Meteorological year,2021,1.397,E,Estimated value,,1656.5806
+ET,320,Guatemala,7271,7020,Meteorological year,2022,0.944,E,Estimated value,,2081.8362
+ET,332,Haiti,7271,7020,Meteorological year,2010,1.065,E,Estimated value,,1289.7793
+ET,332,Haiti,7271,7020,Meteorological year,2012,0.866,E,Estimated value,,1148.8026
+ET,332,Haiti,7271,7020,Meteorological year,2013,1.118,E,Estimated value,,877.5482
+ET,340,Honduras,7271,7020,Meteorological year,2013,0.928,E,Estimated value,,1686.986
+ET,340,Honduras,7271,7020,Meteorological year,2014,0.765,E,Estimated value,,1664.0472
+ET,340,Honduras,7271,7020,Meteorological year,2015,1.223,E,Estimated value,,1541.7782
+ET,340,Honduras,7271,7020,Meteorological year,2016,1.482,E,Estimated value,,1620.4181
+ET,340,Honduras,7271,7020,Meteorological year,2017,1.103,E,Estimated value,,2008.0594
+ET,340,Honduras,7271,7020,Meteorological year,2018,0.88,E,Estimated value,,1573.6622
+ET,340,Honduras,7271,7020,Meteorological year,2021,1.227,E,Estimated value,,1417.3527
+ET,340,Honduras,7271,7020,Meteorological year,2022,0.945,E,Estimated value,,1832.682
+ET,360,Indonesia,7271,7020,Meteorological year,2010,0.768,E,Estimated value,,3773.515
+ET,360,Indonesia,7271,7020,Meteorological year,2011,0.288,E,Estimated value,,3257.664
+ET,360,Indonesia,7271,7020,Meteorological year,2012,0.42,E,Estimated value,,3340.6816
+ET,360,Indonesia,7271,7020,Meteorological year,2014,0.759,E,Estimated value,,3072.5667
+ET,360,Indonesia,7271,7020,Meteorological year,2015,0.755,E,Estimated value,,2802.0144
+ET,360,Indonesia,7271,7020,Meteorological year,2016,1.386,E,Estimated value,,3754.9534
+ET,360,Indonesia,7271,7020,Meteorological year,2017,0.932,E,Estimated value,,3661.7627
+ET,360,Indonesia,7271,7020,Meteorological year,2022,0.957,E,Estimated value,,3572.854
+ET,360,Indonesia,7271,7020,Meteorological year,2024,0.8,E,Estimated value,,3567.102
+ET,404,Kenya,7271,7020,Meteorological year,2012,0.933,E,Estimated value,,731.06274
+ET,404,Kenya,7271,7020,Meteorological year,2013,0.839,E,Estimated value,,803.0355
+ET,404,Kenya,7271,7020,Meteorological year,2014,0.923,E,Estimated value,,661.53986
+ET,404,Kenya,7271,7020,Meteorological year,2017,1.405,E,Estimated value,,607.7956
+ET,404,Kenya,7271,7020,Meteorological year,2022,1.162,E,Estimated value,,434.3288
+ET,404,Kenya,7271,7020,Meteorological year,2023,1.396,E,Estimated value,,716.34454
+ET,404,Kenya,7271,7020,Meteorological year,2024,0.6,E,Estimated value,,753.8881
+ET,418,Laos,7271,7020,Meteorological year,2015,1.284,E,Estimated value,,1876.2891
+ET,418,Laos,7271,7020,Meteorological year,2016,1.306,E,Estimated value,,1900.7954
+ET,418,Laos,7271,7020,Meteorological year,2021,1.078,E,Estimated value,,1848.1522
+ET,418,Laos,7271,7020,Meteorological year,2022,0.903,E,Estimated value,,2060.0674
+ET,418,Laos,7271,7020,Meteorological year,2023,1.488,E,Estimated value,,1817.6981
+ET,484,Mexico,7271,7020,Meteorological year,2010,0.233,E,Estimated value,,952.24243
+ET,484,Mexico,7271,7020,Meteorological year,2012,0.849,E,Estimated value,,758.83075
+ET,484,Mexico,7271,7020,Meteorological year,2013,0.679,E,Estimated value,,976.1554
+ET,484,Mexico,7271,7020,Meteorological year,2014,0.793,E,Estimated value,,876.6862
+ET,484,Mexico,7271,7020,Meteorological year,2015,1.028,E,Estimated value,,890.7116
+ET,484,Mexico,7271,7020,Meteorological year,2016,1.233,E,Estimated value,,833.8995
+ET,484,Mexico,7271,7020,Meteorological year,2017,1.501,E,Estimated value,,830.1637
+ET,484,Mexico,7271,7020,Meteorological year,2021,1.064,E,Estimated value,,833.01904
+ET,484,Mexico,7271,7020,Meteorological year,2022,1.14,E,Estimated value,,790.3192
+ET,104,Myanmar,7271,7020,Meteorological year,2014,0.835,E,Estimated value,,2038.5673
+ET,104,Myanmar,7271,7020,Meteorological year,2015,1.16,E,Estimated value,,2321.96
+ET,104,Myanmar,7271,7020,Meteorological year,2022,1.323,E,Estimated value,,2106.4734
+ET,558,Nicaragua,7271,7020,Meteorological year,2009,0.922,E,Estimated value,,1656.3385
+ET,558,Nicaragua,7271,7020,Meteorological year,2013,1.242,E,Estimated value,,1817.513
+ET,558,Nicaragua,7271,7020,Meteorological year,2014,0.921,E,Estimated value,,1710.1932
+ET,558,Nicaragua,7271,7020,Meteorological year,2015,1.175,E,Estimated value,,1635.2926
+ET,558,Nicaragua,7271,7020,Meteorological year,2016,1.484,E,Estimated value,,1901.3016
+ET,558,Nicaragua,7271,7020,Meteorological year,2017,1.135,E,Estimated value,,2074.088
+ET,558,Nicaragua,7271,7020,Meteorological year,2021,1.16,E,Estimated value,,1554.0259
+ET,558,Nicaragua,7271,7020,Meteorological year,2022,1.007,E,Estimated value,,2256.4482
+ET,591,Panama,7271,7020,Meteorological year,2012,0.834,E,Estimated value,,3146.4739
+ET,591,Panama,7271,7020,Meteorological year,2014,0.948,E,Estimated value,,3050.1265
+ET,591,Panama,7271,7020,Meteorological year,2017,0.851,E,Estimated value,,3110.6804
+ET,591,Panama,7271,7020,Meteorological year,2021,0.983,E,Estimated value,,3312.5808
+ET,591,Panama,7271,7020,Meteorological year,2022,0.481,E,Estimated value,,3545.2334
+ET,591,Panama,7271,7020,Meteorological year,2023,1.077,E,Estimated value,,2821.0254
+ET,604,Peru,7271,7020,Meteorological year,2012,0.931,E,Estimated value,,2273.314
+ET,604,Peru,7271,7020,Meteorological year,2014,0.879,E,Estimated value,,2265.0159
+ET,604,Peru,7271,7020,Meteorological year,2022,0.552,E,Estimated value,,2002.5952
+ET,158,Taiwan,7271,7020,Meteorological year,2012,0.455,E,Estimated value,,2579.3
+ET,158,Taiwan,7271,7020,Meteorological year,2013,0.767,E,Estimated value,,2282.4
+ET,158,Taiwan,7271,7020,Meteorological year,2014,0.673,E,Estimated value,,2187.5
+ET,158,Taiwan,7271,7020,Meteorological year,2015,0.661,E,Estimated value,,2494.3
+ET,158,Taiwan,7271,7020,Meteorological year,2016,0.939,E,Estimated value,,2709.4
+ET,158,Taiwan,7271,7020,Meteorological year,2017,1.275,E,Estimated value,,2578.7
+ET,158,Taiwan,7271,7020,Meteorological year,2021,1.779,E,Estimated value,,1709.5
+ET,158,Taiwan,7271,7020,Meteorological year,2022,1.257,E,Estimated value,,2358.5
+ET,158,Taiwan,7271,7020,Meteorological year,2023,1.318,E,Estimated value,,1786.5
+ET,158,Taiwan,7271,7020,Meteorological year,2024,1.66,E,Estimated value,,2282.4
+ET,764,Thailand,7271,7020,Meteorological year,2011,0.247,E,Estimated value,,1931.9321
+ET,764,Thailand,7271,7020,Meteorological year,2012,0.908,E,Estimated value,,1625.0583
+ET,764,Thailand,7271,7020,Meteorological year,2013,1.109,E,Estimated value,,1679.5256
+ET,764,Thailand,7271,7020,Meteorological year,2014,0.692,E,Estimated value,,1487.9946
+ET,764,Thailand,7271,7020,Meteorological year,2015,1.202,E,Estimated value,,1481.462
+ET,764,Thailand,7271,7020,Meteorological year,2019,1.714,E,Estimated value,,1425.1019
+ET,764,Thailand,7271,7020,Meteorological year,2021,1.012,E,Estimated value,,1728.956
+ET,764,Thailand,7271,7020,Meteorological year,2022,0.937,E,Estimated value,,1849.6667
+ET,764,Thailand,7271,7020,Meteorological year,2023,1.447,E,Estimated value,,1520.2158
+ET,800,Uganda,7271,7020,Meteorological year,2012,1.012,E,Estimated value,,1652.5386
+ET,800,Uganda,7271,7020,Meteorological year,2013,0.973,E,Estimated value,,1544.7548
+ET,800,Uganda,7271,7020,Meteorological year,2014,1.022,E,Estimated value,,1474.6823
+ET,800,Uganda,7271,7020,Meteorological year,2015,1.087,E,Estimated value,,1536.5725
+ET,800,Uganda,7271,7020,Meteorological year,2016,1.181,E,Estimated value,,1536.5725
+ET,800,Uganda,7271,7020,Meteorological year,2021,1.374,E,Estimated value,,1536.5725
+ET,800,Uganda,7271,7020,Meteorological year,2023,1.393,E,Estimated value,,1536.5725
+ET,834,Tanzania,7271,7020,Meteorological year,2012,0.78,E,Estimated value,,1012.1253
+ET,834,Tanzania,7271,7020,Meteorological year,2013,0.856,E,Estimated value,,1042.3839
+ET,834,Tanzania,7271,7020,Meteorological year,2014,0.853,E,Estimated value,,1070.7456
+ET,834,Tanzania,7271,7020,Meteorological year,2015,1.016,E,Estimated value,,1068.2365
+ET,834,Tanzania,7271,7020,Meteorological year,2016,0.906,E,Estimated value,,988.2203
+ET,834,Tanzania,7271,7020,Meteorological year,2022,0.895,E,Estimated value,,998.94556
+ET,834,Tanzania,7271,7020,Meteorological year,2024,1.5,E,Estimated value,,1302.7157
+ET,,United State(Hawaii),7271,7020,Meteorological year,2009,0.72,E,Estimated value,,525.78
+ET,,United State(Hawaii),7271,7020,Meteorological year,2021,0.84,E,Estimated value,,2564.892
+ET,,United State(Hawaii),7271,7020,Meteorological year,2022,0.86,E,Estimated value,,3042.92
+ET,704,Viet Nam,7271,7020,Meteorological year,2012,0.764,E,Estimated value,,2001.8674
+ET,704,Viet Nam,7271,7020,Meteorological year,2014,0.551,E,Estimated value,,1928.853
+ET,704,Viet Nam,7271,7020,Meteorological year,2017,1.103,E,Estimated value,,2375.5344
+ET,704,Viet Nam,7271,7020,Meteorological year,2021,1.025,E,Estimated value,,2075.221
+ET,704,Viet Nam,7271,7020,Meteorological year,2022,0.945,E,Estimated value,,2236.6235
+ET,704,Viet Nam,7271,7020,Meteorological year,2023,1.333,E,Estimated value,,1920.7397

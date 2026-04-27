@@ -1,0 +1,68 @@
+Country,Year,Yield (kg/ha),Yield (t/ha)
+Benin,2005.0,10.0,0.01
+Benin,2006.0,10.0,0.01
+Benin,2007.0,10.0,0.01
+Benin,2008.0,10.0,0.01
+Benin,2009.0,10.0,0.01
+Benin,2010.0,10.0,0.01
+Cameroon,2006.0,16455.3,16.4553
+Cameroon,2015.0,31000.0,31.0
+Cameroon,2016.0,21100.0,21.1
+Cameroon,2017.0,24620.0,24.62
+Cameroon,2018.0,24990.0,24.99
+Cameroon,2019.0,28000.0,28.0
+Cameroon,2020.0,28000.0,28.0
+Cameroon,2021.0,29000.0,29.0
+Congo,2010.0,120.0,0.12
+Congo,2011.0,150.0,0.15
+Congo,2012.0,280.0,0.28
+Congo,2013.0,500.0,0.5
+Congo,2014.0,500.0,0.5
+Congo,2015.0,250.0,0.25
+Congo,2016.0,380.0,0.38
+Congo,2017.0,350.0,0.35
+Congo,2018.0,450.0,0.45
+Congo,2019.0,500.0,0.5
+Congo,2020.0,700.0,0.7
+Congo,2021.0,1800.0,1.8
+Costa Rica,2019.0,80.0,0.08
+Costa Rica,2020.0,80.0,0.08
+Costa Rica,2021.0,80.0,0.08
+Ghana,2007.0,61450.0,61.45
+Ghana,2016.0,168376.5,168.3765
+Ghana,2016.0,85872.0,85.872
+Ghana,2017.0,96930.0,96.93
+Ghana,2018.0,90470.0,90.47
+Ghana,2019.0,81170.0,81.17
+Ghana,2020.0,104700.0,104.7
+Ghana,2021.0,82200.0,82.2
+Nigeria,2011.0,39100.0,39.1
+Nigeria,2012.0,38300.0,38.3
+Nigeria,2013.0,36700.0,36.7
+Nigeria,2017.0,25000.0,25.0
+Nigeria,2018.0,27000.0,27.0
+Nigeria,2019.0,25000.0,25.0
+Nigeria,2020.0,29000.0,29.0
+Nigeria,2021.0,28000.0,28.0
+Panama,2019.0,100.0,0.1
+Panama,2020.0,100.0,0.1
+Panama,2021.0,100.0,0.1
+Papua New Guinea,2005.0,11000.0,11.0
+Papua New Guinea,2005.0,4780.0,4.78
+Papua New Guinea,2006.0,12000.0,12.0
+Papua New Guinea,2006.0,5110.0,5.11
+Papua New Guinea,2007.0,12000.0,12.0
+Papua New Guinea,2007.0,4930.0,4.93
+Papua New Guinea,2008.0,5150.0,5.15
+Papua New Guinea,2009.0,5940.0,5.94
+Papua New Guinea,2010.0,3940.0,3.94
+Papua New Guinea,2011.0,4760.0,4.76
+Papua New Guinea,2012.0,3870.0,3.87
+Papua New Guinea,2013.0,4120.0,4.12
+Papua New Guinea,2015.0,3610.0,3.61
+Papua New Guinea,2016.0,3800.0,3.8
+Papua New Guinea,2017.0,3690.0,3.69
+Papua New Guinea,2018.0,3330.0,3.33
+Papua New Guinea,2019.0,3570.0,3.57
+Papua New Guinea,2020.0,3800.0,3.8
+Papua New Guinea,2021.0,4200.0,4.2

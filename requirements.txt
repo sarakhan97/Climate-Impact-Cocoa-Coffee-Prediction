@@ -1,0 +1,14 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+tensorflow
+torch
+optuna
+pytorch-tabnet
+category_encoders
